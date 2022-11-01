@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Eu sou Mariana, formada em Análise e Desenvolvimento de Sistemas e atualmente estou fazendo uma Pós em Engenharia de Software.  
+Gosto de estar sempre buscando/estudando novas ferramentas, plataformas, bibliotecas, jeitos e maneiras para criar inúmeras soluções para 1 problema e todo esse conhecimento adquirido busco transmitir para as pessoas ao me redor para podermos debater, discutir, evoluir as ideias e com isso chegar a melhor solução para o nosso momento.
+
+
 <!--
 **oimarianinha/oimarianinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
