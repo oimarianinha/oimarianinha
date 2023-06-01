@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Eu sou Mariana, formada em Análise e Desenvolvimento de Sistemas e atualmente estou fazendo uma Pós em Engenharia de Software.  
-Gosto de estar sempre buscando/estudando novas ferramentas, plataformas, bibliotecas, jeitos e maneiras para criar inúmeras soluções para 1 problema.
+Eu sou Mariana, gosto de estar sempre buscando/estudando novas ferramentas, plataformas, bibliotecas, jeitos e maneiras para criar inúmeras soluções para 1 problema.
 
 
 <!--
