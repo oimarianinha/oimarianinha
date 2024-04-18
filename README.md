@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Eu sou Mariana, gosto de estar sempre buscando/estudando novas ferramentas, plataformas, bibliotecas, jeitos e maneiras para criar inúmeras soluções para 1 problema.
-
 
 <!--
 **oimarianinha/oimarianinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
